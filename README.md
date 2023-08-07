@@ -53,5 +53,4 @@ The goal of this project is to leverage AWS Connect to execute and export report
 * Develop training materials to ensure all team members are familiar with the optimized AWS Connect environment.
 
 
-Provide guidance and resources for team members to acquire AWS Connect certifications to enhance their expertise.
 By completing these project objectives, I demonstrate the ability to effectively utilize AWS Connect, optimize call center operations, analyze performance data, and collaborate with cross-functional teams to enhance customer interactions and agent productivity. This project showcases my proficiency in meeting the requirements outlined in the job description and highlights your valuable skills and experience in the AWS Connect domain.
